@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Using CompilerApp from Quinn Slack's Scala branch of Avro
+===============================
+
+`java -classpath "scala-avro.jar" org.apache.avro.scala.CompilerApp schema out EnronEmail.avsc`
+=======
+scala-avro-example
+==================
+
+Testing out Quinn Slack's compiler in his Scala branch of Avro
+>>>>>>> 1dee99fa1ed91b158aef09fb894090d0293096e0
